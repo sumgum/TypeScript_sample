@@ -1,0 +1,24 @@
+{
+  "name": "typescript_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumgum/TypeScript_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumgum/TypeScript_sample/issues"
+  },
+  "homepage": "https://github.com/sumgum/TypeScript_sample#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.11",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.5"
+  }
+}
